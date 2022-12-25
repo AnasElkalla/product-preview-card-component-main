@@ -109,7 +109,7 @@ button {
   font-family: "Montserrat", sans-serif;
   margin: 0;
 }
-button:hover {
+button:hover,button:focus {
   background-color: hsl(158, 34%, 26%);
   cursor: pointer;
 }
